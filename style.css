@@ -68,7 +68,7 @@ body {
 }
 #navbar li.active,
 #navbar li.active:before {
-    background: #ff0066;
+    background: #ff3385;
 }
 
 div.panel {
@@ -78,6 +78,7 @@ div.panel {
     margin-right: 20px;
     padding: 20px;
     width: 100%;
+    opacity: 0.8;
 }
 
 img {
