@@ -69,3 +69,8 @@ body {
 #navbar li.active:before {
     background: #ffcc00;
 }
+
+div.jumbotron{
+  opacity: 0.8;
+  color: #000000;
+}
