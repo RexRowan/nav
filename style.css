@@ -92,5 +92,6 @@ aside {
 }
 
 p {
+    position: inline;
      font-size: 2em;
 }
