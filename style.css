@@ -70,4 +70,7 @@ body {
     background: #ffcc00;
 }
 
-
+div.panel {
+    margin: 20px;
+    padding: 20px;
+}
