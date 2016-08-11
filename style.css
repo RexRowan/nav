@@ -76,5 +76,6 @@ div.panel {
 }
 
 img {
-    size: 200px;
+    height: 200px;
+    width: 200px;
 }
