@@ -9,16 +9,6 @@ body {
   background-attachment: fixed;
 }
 
-body {
-    margin: 0;
-    background-color: #ffffcc;
-    background-image: url('');
-    background-position: center;
-    background-size: cover;
-    -webkit-background-blend-mode: overlay;
-    -moz-background-blend-mode: overlay;
-    background-blend-mode: overlay;
-}
 
 #navbar {
     position: absolute;
