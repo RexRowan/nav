@@ -84,3 +84,7 @@ img {
 article {
     padding: 20px;
 }
+
+aside {
+    float: right;
+}
