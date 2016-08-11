@@ -67,5 +67,5 @@ body {
 }
 #navbar li.active,
 #navbar li.active:before {
-    background:   #ff0066;
+    background: #ffcc00;
 }
