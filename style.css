@@ -89,3 +89,7 @@ aside {
     float: right;
     margin: 20px;
 }
+
+p {
+    2em;
+}
