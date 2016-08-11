@@ -81,3 +81,7 @@ img {
     width: 200px;
 }
 
+div.media-body {
+    margin:20px;
+    padding: 20px;
+}
