@@ -73,6 +73,7 @@ body {
 div.panel {
     margin: 20px;
     padding: 20px;
+    width: 100%;
 }
 
 img {
