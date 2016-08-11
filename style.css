@@ -146,30 +146,8 @@ div.media-body {
 	margin: 0;
 }
 
-/* Footer social icons */
 
-.footer-distributed .footer-icons{
-	margin-top: 40px;
-}
 
-.footer-distributed .footer-icons a{
-	display: inline-block;
-	width: 35px;
-	height: 35px;
-	cursor: pointer;
-	background-color:  #33383b;
-	border-radius: 2px;
-
-	font-size: 20px;
-	color: #ff66cc;
-	text-align: center;
-	line-height: 35px;
-
-	margin-right: 3px;
-	margin-bottom: 5px;
-}
-
-/* Footer Right */
 
 .footer-distributed .footer-right{
 	float: right;
