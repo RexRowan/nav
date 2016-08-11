@@ -68,7 +68,7 @@ body {
 }
 #navbar li.active,
 #navbar li.active:before {
-    background: #ffcc00;
+    background: #ff0066;
 }
 
 div.panel {
