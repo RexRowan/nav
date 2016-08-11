@@ -3,9 +3,16 @@ html, body {
 }
 
 body {
-	background-color: #ff6699;
-  
+    margin: 0;
+    background-color: #ff6699;
+    background-image: url('');
+    background-position: center;
+    background-size: cover;
+    -webkit-background-blend-mode: overlay;
+    -moz-background-blend-mode: overlay;
+    background-blend-mode: overlay;
 }
+
 
 
 #navbar {
