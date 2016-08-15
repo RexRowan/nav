@@ -17,7 +17,11 @@ carousel {
   padding: 20px;
 }
 
-
+div.row {
+  padding-top: 40px;
+  opacity: 0.8;
+  color: #ff0066;
+}
 
 #navbar {
     position: absolute;
