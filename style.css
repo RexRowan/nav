@@ -13,6 +13,10 @@ body {
     background-blend-mode: overlay;
 }
 
+carousel {
+  padding: 20px;
+}
+
 
 
 #navbar {
