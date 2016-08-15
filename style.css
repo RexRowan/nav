@@ -81,7 +81,7 @@ div.row {
 }
 #navbar li.active,
 #navbar li.active:before {
-    background: #ff3385;
+    background: #ffff00;
 }
 
 div.panel {
@@ -128,7 +128,7 @@ div.media-body {
 /* The company logo */
 
 .footer-distributed h3{
-	color:  #ff1a75;
+	color:  #ffff00;
 	font: normal 36px 'Cookie', cursive;
 	margin: 0 0 10px;
 }
